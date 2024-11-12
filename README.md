@@ -1,4 +1,4 @@
-# Ex.08 Design of Interactive Image Gallery
+# Ex.07 Design of Interactive Image Gallery
 ## Date: 12/11/24
 
 ## AIM:
